@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp -r fitzone-app/* .)",
+      "Bash(cp fitzone-app/.gitignore .)",
+      "Bash(cp fitzone-app/.eslintrc.json .)",
+      "Bash(cp -r fitzone-app/.next .)",
+      "Bash(git merge:*)"
+    ],
+    "additionalDirectories": [
+      "/Users/alex/Dev/Personal/Darsh Gupta/FitZone/src/app/member/gym"
+    ]
+  }
+}
